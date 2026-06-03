@@ -224,23 +224,27 @@ streamlit run app.py
 
 ---
 
-## Screenshots
+## 📸 Streamlit App Screenshots
 
-### Exploratory Data Analysis
+### 🧠 MLflow Tracking
 
-![EDA](images/premium_distribution.png.png)
+![MLflow](images/mlflow.png)
 
-### MLflow Experiment Tracking
+### 📊 Premium Distribution
 
-![MLflow](images/mlflow.png.png)
+![Premium Distribution](images/premium_distribution.png)
 
-### Streamlit Application
+### 🚀 Streamlit App - Page 1
 
-![Streamlit](images/streamlit_1-3.png.png)
+![Streamlit 1](images/streamlit_1.png)
 
-![Streamlit](images/streamlit_2-3.png.png)
+### 🚀 Streamlit App - Page 2
 
-![Streamlit](images/streamlit_3-3.png.png)
+![Streamlit 2](images/streamlit_2.png)
+
+### 🚀 Streamlit App - Page 3
+
+![Streamlit 3](images/streamlit_3.png)
 
 ---
 
