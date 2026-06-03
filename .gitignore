@@ -1,0 +1,8 @@
+venv/
+data/
+*.dll
+*.csv
+mlruns/
+
+
+
